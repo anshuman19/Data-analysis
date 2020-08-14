@@ -1,2 +1,2 @@
 # Data-analysis
-Example of list comprehension, Lambda Expression and handling of dataset using various pandas function.
+Example of List Comprehension, Lambda Expression and handling of dataset using various pandas function.
