@@ -1,2 +1,2 @@
 # Data-analysis
-Example of Lambda Expression and how to read data from a csv file
+Example of list comprehension, Lambda Expression and handling of dataset using various pandas function.
